@@ -26,13 +26,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "facebook.com/mhussain.net",
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://instagram.com/mhussaincodes",
     linkTitle: `${SITE.title} on Instagram`,
     active: false,
   },
@@ -55,21 +55,9 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitch`,
-    active: false,
-  },
-  {
     name: "YouTube",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.youtube.com/channel/UCdEaI0IcAo__xEP7_gxQ59w",
     linkTitle: `${SITE.title} on YouTube`,
-    active: false,
-  },
-  {
-    name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on WhatsApp`,
     active: false,
   },
   {
