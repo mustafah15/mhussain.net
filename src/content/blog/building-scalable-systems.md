@@ -3,7 +3,7 @@ author: Mustafa Hussain
 pubDatetime: 2020-04-16T22:12:03.284Z
 title: Building Scalable Systems
 postSlug: building-scalable-systems
-featured: true
+featured: false
 ogImage: ""
 tags:
   - software-architecture
