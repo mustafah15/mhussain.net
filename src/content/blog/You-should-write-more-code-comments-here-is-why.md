@@ -2,7 +2,7 @@
 author: Mustafa Hussain
 pubDatetime: 2023-03-18T22:12:03.284Z
 title: You should write more code comments, here is why.
-postSlug: 2020-in-review
+postSlug: you-should-write-more-code-comments-here-is-why
 featured: true
 draft: false
 tags:
