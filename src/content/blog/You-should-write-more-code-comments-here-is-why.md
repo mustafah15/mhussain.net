@@ -71,5 +71,7 @@ As comments can serve as a canary in the coal mine of complexity if a method or 
 Hard to describe, conversely, if there's no way to describe a method completely without a long and complicated comment with the implementation to get a sense of how deep the method is; the interface comment must describe all the major features of the implementation. then the method is shallow as the comment describing a method or variable should be simple yet complete.
 
 - the third and final benefit of writing comments early is that it makes comment-writing more fun. one of the most enjoyable parts of programming is the early design phase for a new class, where you flesh out the abstractions and structure for the class. most of your comments are written during this phase, and the comments are how you record and test the quality of your design decisions.
-Conclusion 
+
+### Conclusion 
+
 writing comments can be really useful to capture information that was in the mind of the designer but couldn't be represented in the code without documentation future developers will have to guess the developer's original knowledge which might lead to obscurity, comments can lead to better module abstraction, and to a better design overall if it's well written.
