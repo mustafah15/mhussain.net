@@ -6,7 +6,7 @@ postSlug: you-should-write-more-code-comments-here-is-why
 featured: true
 draft: false
 tags:
-  - life
+  - software-engineering
 ogImage: ""
 description: ""
 ---
