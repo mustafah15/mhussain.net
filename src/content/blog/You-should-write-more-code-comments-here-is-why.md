@@ -1,6 +1,6 @@
 ---
 author: Mustafa Hussain
-pubDatetime: 2020-03-18T22:12:03.284Z
+pubDatetime: 2023-03-18T22:12:03.284Z
 title: You should write more code comments, here is why.
 postSlug: 2020-in-review
 featured: true

@@ -3,7 +3,7 @@ author: Mustafa Hussain
 pubDatetime: 2020-07-04T22:12:03.284Z
 title: Environment Variables in Kubernetes with configMaps and secrets
 postSlug: ""
-featured: true
+featured: false
 draft: false
 tags:
   - kubernetes
