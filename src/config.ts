@@ -3,11 +3,11 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://mhussain.net/",
   author: "Mustafa Hussain",
-  desc: "Personal blog and website for Mustafa Hussain",
+  desc: "Personal blog for Mustafa Hussain",
   title: "Mustafa Hussain",
   // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 5,
+  postPerPage: 7,
 };
 
 export const LOGO_IMAGE = {
@@ -44,7 +44,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:mustafa.hussain93@gmail.com",
+    href: "mailto:me@mhussain.net",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
   },
