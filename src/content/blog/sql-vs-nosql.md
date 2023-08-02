@@ -3,7 +3,7 @@ author: Mustafa Hussain
 pubDatetime: 2019-11-03T22:12:03.284Z
 title: SQL VS NOSQL In Nutshell
 postSlug: sql-vs-nosql
-featured: true
+featured: false
 draft: false
 tags:
   - backend

@@ -3,7 +3,7 @@ title: Testing Microservices
 author: Mustafa Hussain
 pubDatetime: 2019-03-20T22:12:03.284Z
 postSlug: testing-microservices
-featured: true
+featured: false
 draft: false
 tags:
   - software-architecture
