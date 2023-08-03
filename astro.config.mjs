@@ -4,7 +4,7 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
-import vercel from '@astrojs/vercel/edge';
+import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
