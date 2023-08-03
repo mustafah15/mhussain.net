@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@astrojs/rss": "^2.1.0",
-    "@astrojs/vercel": "^3.7.5",
     "@vercel/analytics": "^1.0.1",
     "astro": "^2.0.8",
     "fuse.js": "^6.6.2",
