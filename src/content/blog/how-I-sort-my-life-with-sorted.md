@@ -2,7 +2,7 @@
 author: Mustafa Hussain
 pubDatetime: 2021-04-19T22:12:03.284Z
 title: How I Sort My Life With Sorted3
-postSlug: how-to-configure-astropaper-theme
+postSlug: how-I-sort-my-life-with-sorted
 featured: false
 draft: false
 tags:
