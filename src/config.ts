@@ -5,14 +5,12 @@ export const SITE = {
   author: "Mustafa Hussain",
   desc: "Personal blog for Mustafa Hussain",
   title: "Mustafa Hussain",
-  // ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 7,
 };
 
 export const LOGO_IMAGE = {
   enable: false,
-  svg: true,
   width: 216,
   height: 46,
 };
