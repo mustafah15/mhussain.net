@@ -1,8 +1,8 @@
 ---
 author: Mustafa Hussain
 pubDatetime: 2023-10-14T22:12:03.284Z
-title: Building Scalable Systems
-postSlug: building-scalable-systems
+title: Complexity In Software Design
+postSlug: complexity-in-software-design
 featured: false
 ogImage: ""
 tags:
