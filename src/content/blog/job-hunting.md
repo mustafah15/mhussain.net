@@ -10,8 +10,6 @@ tags:
 description: "this is a blog post about how I job hunt as a software engineer"
 ---
 
-> Update: These tips helped me again to get new job offers after being affected by the layoff in ResearchGate in September 2023.
-
 I have been working as a software engineer since 2015, jumped between different jobs 2 in Germany and a few more in Egypt and I think finally I found my best strategy to hunt a new job.
 
 The interview process is a series of steps in most cases there are four steps:
