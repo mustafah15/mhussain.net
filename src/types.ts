@@ -14,6 +14,7 @@ export type SocialMedia =
   | "Facebook"
   | "Instagram"
   | "LinkedIn"
+  | "KnowledgeBase"
   | "Mail"
   | "Twitter"
   | "Twitch"

@@ -48,13 +48,19 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/mhussain_net",
-    linkTitle: `${SITE.title} on Twitter`,
+    href: "https://x.com/mhussain_net",
+    linkTitle: `${SITE.title} on X`,
     active: true,
   },
   {
     name: "YouTube",
-    href: "https://www.youtube.com/channel/UCdEaI0IcAo__xEP7_gxQ59w",
+    href: "https://www.youtube.com/@mhussain_net",
+    linkTitle: `${SITE.title} on YouTube`,
+    active: false,
+  },
+  {
+    name: "KnowledgeBase",
+    href: "mhussain.dev",
     linkTitle: `${SITE.title} on YouTube`,
     active: false,
   },
