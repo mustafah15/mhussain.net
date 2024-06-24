@@ -9,7 +9,7 @@ tags:
   - technical 
   - distributed systems
 ogImage: ""
-description: 
+description: "Exploring the transactional outbox pattern to solve the dual write problem in distributed systems, ensuring data consistency between different parts of the system."
 ---
 Recently, I was working on a project where I had to implement a feature that required me to send messages to multiple services while saving these messages into the service's internal DB. In this case, the requirement was to guarantee consistency between the system parts (the Message Queue and the Service's DB). This is a well-known problem in the context of distributed systems called the **Dual Write problem**.
 
