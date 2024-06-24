@@ -17,7 +17,7 @@ The solution for the dual write problem is the transactional outbox pattern, and
 
 The following diagram explains my case: one service that writes to its own DB and a message queue.
 
-![[before-outbox.png]]
+![](before-outbox.png)
 
 To be able to write to both (DB and MQ) in a transactional manner, we need to implement the Outbox Pattern
 The first step is to add a new table in the DB, which we'll call the outbox table. We will use it to save the events while we are storing the state info in the DB with a normal DB transaction. If inserting the state in the DB fails for one reason or another, adding the event info to the outbox table will also fail/rollback.
@@ -26,7 +26,7 @@ The second step is to create a job that processes the records inside the outbox 
 
 One note on that: if the job receives the acknowledgment from the MQ and, for some reason, fails to delete the events from the outbox DB table, this will lead to the same event being sent again to the MQ. So, our solution guarantees that the event will be sent to the MQ at least once, but maybe more, so the downstream services or the MQ need to handle this case.
 
-![[after-outbox.png]]
+![](after-outbox.png)
 
 
 
