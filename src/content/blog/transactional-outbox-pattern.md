@@ -30,9 +30,7 @@ One note on that: if the job receives the acknowledgment from the MQ and, for so
 
 
 
-Here's a Video Explanation in Arabic:
-![](https://youtu.be/mHtTT4SDCvE)
-
+Here's a ![video](https://youtu.be/mHtTT4SDCvE) Explanation in Arabic:
 
 Further resources:
 - https://microservices.io/patterns/data/transactional-outbox.html
