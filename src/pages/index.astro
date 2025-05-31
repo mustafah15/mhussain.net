@@ -1,15 +1,15 @@
 ---
-import { getCollection } from "astro:content";
-import Layout from "@layouts/Layout.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import LinkButton from "@components/LinkButton.astro";
-import Hr from "@components/Hr.astro";
 import Card from "@components/Card";
+import Footer from "@components/Footer.astro";
+import Header from "@components/Header.astro";
+import Hr from "@components/Hr.astro";
+import LinkButton from "@components/LinkButton.astro";
 import Socials from "@components/Socials.astro";
+import { SOCIALS } from "@config";
+import Layout from "@layouts/Layout.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import slugify from "@utils/slugify";
-import { SOCIALS } from "@config";
+import { getCollection } from "astro:content";
 
 const posts = await getCollection("blog");
 
@@ -41,11 +41,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Hi there, This is my personal blog the space I use to share my stories on the internet. 
-        I might share with you some technical stuff mostly backend-related or non-technical stories about running, coffee, or life.
+        Hi there, This is my personal blog the space I use to share my stories
+        on the internet. I might share with you some technical stuff mostly
+        backend-related or non-technical stories about running, coffee, or even
+        sociology.
       </p>
       <p>
-        Read the blog posts or check the 
+        Read the blog posts or check the
         <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
           href="/tags"
