@@ -1,7 +1,7 @@
 import rss from "@astrojs/rss";
-import { getCollection } from "astro:content";
 import { SITE } from "@config";
 import slugify from "@utils/slugify";
+import { getCollection } from "astro:content";
 
 export async function get() {
   const posts = await getCollection("blog", ({ data }) => !data.draft);

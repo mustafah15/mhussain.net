@@ -3,15 +3,15 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Hello!👋🏽 
+Hello!👋🏽
 
-My name is Mustafa Hussain. I am a software engineer who spends the majority of his time seeking out new, innovative solutions related to the software engineering. That being said, I always do my best to develop high-quality backend solutions for my clients.
+Hi, I’m Mustafa Hussain — a senior software engineer with many years of experience building scalable backend systems.
+Throughout my career, I’ve worked on a wide range of projects that have sharpened my analytical thinking and strengthened my ability to collaborate with diverse teams. I enjoy writing clean, maintainable code and diving deep into architecture and system design.
 
-In the 7+ years that I have spent as part of the software engineering industry, I have managed to build a lot of stuff that helped me to improve both my collaboration skills and my analytical skills. Building highly scalable backend services is something that I am always interested in.
+When I’m not coding, you’ll probably find me out on a long-distance run, experimenting with coffee brewing methods, or reading about topics that range from software design to sociology. I’m curious by nature — always exploring how things work and how they could work better.
 
-Apart from being a software engineer, I also like to spend some of my time reading 📚, brewing coffee☕️ and doing a long distance running 🏃🏾.
+This blog is my safe space where I share my thoughts on different topics that I find interesting without being judged by social media algorithms. I write about software engineering, distributed systems, and anything else that sparks my curiosity. I hope you find something here that resonates with you!
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
-
