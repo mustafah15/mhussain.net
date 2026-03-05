@@ -27,7 +27,6 @@ But first, let's talk about a few general things that helped me in every step.
 - **✨ Logging ✨**
   The more data you collect about your job applications the more room you have to improve your future applications this can be done simply by having a table, Excel or notion, or even .txt files, for me I used notion to sort all my applications like [this](https://mustafah15.notion.site/Job-Applications-template-6de7f53d0d1d4b4bb2ceb020586b467b?pvs=4) this page(template) has the everything I needed to Log my applications in one sprint I would add the CV version I used to apply to those applications as well as a table that have every single application I have sent including company name, title, number of interviews, date of last update I got on this application, posting URL, some notes that I might need to review later and which state my application is in or ended in this should give me more clarity which step I need to improve for example if I fail more than 40% in the CV evaluation step that is a clear indicator that I might need to update my CV to have a lower rejection rate in this step.
   Also, with every company I interview with I would have notes about the company market, industry competitors, salary ranges for a similar position, and why this might be this role would be a good fit for me this would help during the interview process with that company.
-  ![this was my last job hunting sprint](job-hunting.png)
 
 Now we can jump to the interview steps
 

@@ -13,8 +13,6 @@ description: ""
 ---
 
 
-![kubelogo.png](kubelogo.png)
-
 Inside a Kubernetes cluster in some cases you will need to manage environment variables across the cluster to define an external state of a deployed services, in this post we will discuss how to do so with configMaps and secrets.
 
 ## configMap

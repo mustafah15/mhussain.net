@@ -1,3 +1,4 @@
+import React from "react";
 import Datetime from "./Datetime";
 import type { BlogFrontmatter } from "@content/_schemas";
 
